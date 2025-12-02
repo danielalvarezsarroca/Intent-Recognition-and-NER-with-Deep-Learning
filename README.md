@@ -169,6 +169,3 @@ Key conclusions:
 - Transformers require far more data and tuning to match RNN performance in this setting.
 
 ---
-
-# Suggested Repository Structure
-
